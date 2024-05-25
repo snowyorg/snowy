@@ -1,6 +1,6 @@
 [submodule "libs/core"]
 	path = libs/core
-	url = https://github.com/snowyorg/core.git
+	url = ../core.git
 [submodule "libs/base"]
 	path = libs/base
-	url = https://github.com/snowyorg/base.git
+	url = ../base.git
